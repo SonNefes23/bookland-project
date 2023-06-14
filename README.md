@@ -6,8 +6,14 @@
 
 Web Editörü Final Ödevi
 
-
-
+    
+## Projeyi Çalıştırma
+- Node.JS Kurunuz (Kurulu ise yeniden kurmanıza gerek yoktur.)
+- Vs code uygulamasında yeni bir terminal açıp aşağıdaki adımları izleyin.
+- git clone https://github.com/SonNefes23/bookland-project.git
+- npm install
+- npm start
+ 
 
 
 
