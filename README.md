@@ -1,5 +1,4 @@
 
-![Logo](https://img.imgyukle.com/2023/06/13/rLF0nA.png)
 
     
 # Bookland Project Tbmyo 
@@ -36,11 +35,7 @@ Web Editörü Final Ödevi
 **Türkçe Anasayfa Kısmı**
 ![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/06/13/rLZRLM.png)
 
-**İngilizce Anasayfa Kısmı**
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/06/13/rLZSrU.png)
-  
-**Türkçe Kitap Sayfası Kısmı**
- ![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/06/13/rLZuhH.png) 
+
 ## Yazarlar ve Teşekkür
 
 - @eevliyasever @mşahinoğlu tasarım fikirleri için.
